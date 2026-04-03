@@ -1,0 +1,2 @@
+RAG is a technique where an LLM retrieves relevant documents from a vector database,
+like Chroma and uses them as context to generate accurate, grounded answers.

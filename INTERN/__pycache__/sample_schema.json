@@ -1,0 +1,39 @@
+{
+  "id": "",
+  "qID": "",
+  "meta": {
+    "exam_name": "",
+    "year": 0,
+    "tier": "",
+    "subject": "",
+    "topic": "",
+    "sub_topic": "",
+    "difficulty": "",
+    "languages": ["en", "hi"],
+    "date": "",
+    "shift": ""
+  },
+  "content": {
+    "question_text": {
+      "en": "",
+      "hi": ""
+    },
+    "is_image_based": false
+  },
+  "options": [
+    {
+      "id": "",
+      "text": {
+        "en": "",
+        "hi": ""
+      }
+    }
+  ],
+  "answer": {
+    "correct_option_id": "",
+    "solution_text": {
+      "en": "",
+      "hi": ""
+    }
+  }
+}

@@ -1,0 +1,1 @@
+text splitter is a techinique for breaking a large text into chunks and store in a list for effective and semantic search .

@@ -1,0 +1,2 @@
+Runnable is a unified LangChain interface.
+that allows composing prompts, models, and functions into executable pipelines.
